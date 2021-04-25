@@ -1,17 +1,17 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
+title: Fundación Industria Creativa
+subtitle: Industria Creativa
 email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
-author:
+description: Esto es un contenido
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "fic.ong"# the base hostname & protocol for your site
+author: "Fundación Industrias Creativas"
 street_address: 1234 Somewhere Road
 city: Nashville
 state: TN
 zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+country: Chile
+phone: (+56) 1111111
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -48,15 +48,13 @@ socials:
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
+title: Fundación Industria Creativa
 
 # This is the place to set up the contact form recipient
 # email: your-email@example.com
 
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Una descripción que debemos conversar
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://fic.ong" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
