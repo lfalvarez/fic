@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Edu esto esta en elements.md
-image: assets/images/pic01.jpg
+title: Recuerda Edu esto esta en elements.md
+image: assets/images/Imagen.jpeg
 nav-menu: true
 ---
 
