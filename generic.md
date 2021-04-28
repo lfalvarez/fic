@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Somos
+title: Somos FIC
 description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+image: assets/images/pic13.jpeg
 nav-menu: true
 ---
 
