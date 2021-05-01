@@ -1,7 +1,7 @@
 ---
 layout: allposts
 title: Noticias
-landing-title: 'All posts'
+landing-title: 'Noticias'
 nav-menu: true
 description: null
 image: null
