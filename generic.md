@@ -1,14 +1,17 @@
 ---
 layout: post
 title: Somos FIC
-description: Lorem ipsum dolor est
+description: ¡Crear Juntos!
 image: assets/images/DD9DBD.png
 nav-menu: true
 ---
 
-Somos trabajadores y trabajadores de las industrias creativas, para las industrias creativas, que nace como una incubadora o middle ground creativo, con un modelo de innovación abierta, fortaleciendo proyectos de impacto cultural y social, en su conceptualización, incremento, implementación y difusión.
+La Fundación Social y Cultural Industria Creativa es una red de trabajadoras y trabajadores de las industrias creativas.
 
+Trabajamos para hacer de la cultura y la creatividad un motor y facilitador de los procesos de desarrollo económico, social y medioambiental, reconociendo los beneficios de la economía creativa para alcanzar un desarrollo sostenible, inclusivo, centrado en las personas y en las comunidades vulneradas.
 
-Buscamos hacer de la cultura y creatividad un motor y facilitador de los procesos de desarrollo económico, social y medioambiental, reconociendo los beneficios de la economía creativa para alcanzar desarrollo sostenible e inclusivo, centrado en las personas y en las comunidades vulneradas.
+Pensamos a Chile y Latinoamerica como un territorio inherentemente creativo y creemos en la posibilidad de transversalizar proyectos con impacto cultural y social.
 
-Pensamos en Chile como un territorio inherentemente creativo y creemos en transversalizar la posibilidad de crear proyectos de impacto cultural y social.
+A través de un modelo de innovación abierta, buscamos fortalecer proyectos en su conceptualización, implementación y difusión.
+
+La invitación es a ¡Crear Juntos!
