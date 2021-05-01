@@ -1,17 +1,16 @@
 # site settings
 title: Fundación Industria Creativa
 subtitle: Industria Creativa
-email: ficcreativa@gmail.com
+email: fscicreativa@gmail.com
 description: Esto es un contenido
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "fic.ong"# the base hostname & protocol for your site
-author: "Fundación Industrias Creativas"
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
+author: "Fundación Industria Creativas"
+street_address: Suecia 620, Providencia.
+city: Santiago Chile
 zip_code: 55555
 country: Chile
-phone: (+56) 1111111
+phone: (+56) 9 8445 7932
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
