@@ -2,12 +2,13 @@
 layout: post
 title: Somos FIC
 description: Lorem ipsum dolor est
-image: assets/images/pic13.jpeg
+image: assets/images/DD9DBD.png
 nav-menu: true
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+Somos trabajadores y trabajadores de las industrias creativas, para las industrias creativas, que nace como una incubadora o middle ground creativo, con un modelo de innovación abierta, fortaleciendo proyectos de impacto cultural y social, en su conceptualización, incremento, implementación y difusión.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+Buscamos hacer de la cultura y creatividad un motor y facilitador de los procesos de desarrollo económico, social y medioambiental, reconociendo los beneficios de la economía creativa para alcanzar desarrollo sostenible e inclusivo, centrado en las personas y en las comunidades vulneradas.
+
+Pensamos en Chile como un territorio inherentemente creativo y creemos en transversalizar la posibilidad de crear proyectos de impacto cultural y social.
