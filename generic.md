@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Somos FIC
-description: ¡Crear Juntos!
+title: Manifiesto
+description: Manifiesto
 image: assets/images/DD9DBD.png
 nav-menu: true
 ---
