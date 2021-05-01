@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Recuerda Edu esto esta en elements.md
+title: Somos
 image: assets/images/Imagen.jpeg
 nav-menu: true
 ---
@@ -12,12 +12,20 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Edu esto esta en elements.md</h1>
+			<h1>¡Crear Juntos!</h1>
 		</header>
 
 <!-- Content -->
 <h2 id="content">Puedes ir viendo cómo funciona en `preview changes`</h2>
-<p>PY uno escribe cosas acá,las que quieras..</p>
+<p>La Fundación Social y Cultural Industria Creativa es una red de trabajadoras y trabajadores de las industrias creativas.
+
+Trabajamos para hacer de la cultura y la creatividad un motor y facilitador de los procesos de desarrollo económico, social y medioambiental, reconociendo los beneficios de la economía creativa para alcanzar un desarrollo sostenible, inclusivo, centrado en las personas y en las comunidades vulneradas.
+
+Pensamos a Chile y Latinoamerica como un territorio inherentemente creativo y creemos en la posibilidad de transversalizar proyectos con impacto cultural y social.
+
+A través de un modelo de innovación abierta, buscamos fortalecer proyectos en su conceptualización, implementación y difusión.
+
+La invitación es a ¡Crear Juntos!</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Sem turpis amet semper</h3>
