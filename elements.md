@@ -17,8 +17,8 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<h2 id="content">Puedes ir viendo cómo funciona en `preview changes`</h2>
-<p>La Fundación Social y Cultural Industria Creativa es una red de trabajadoras y trabajadores de las industrias creativas.
+<h2 id="content">Fundación Social y Cultural Industria Creativa </h2>
+<p>Somos una red de trabajadoras y trabajadores de las industrias creativas.
 
 Trabajamos para hacer de la cultura y la creatividad un motor y facilitador de los procesos de desarrollo económico, social y medioambiental, reconociendo los beneficios de la economía creativa para alcanzar un desarrollo sostenible, inclusivo, centrado en las personas y en las comunidades vulneradas.
 
