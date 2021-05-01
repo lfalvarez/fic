@@ -53,10 +53,10 @@ title: Fundación Industria Creativa
 # email: your-email@example.com
 
 description: > # this means to ignore newlines until "baseurl:"
-  Una descripción que debemos conversar
+  "Del gigantismo destructivo a la pequeñez creativa"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://fic.ong" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: ficreativa
+g
 
 # Build settings
