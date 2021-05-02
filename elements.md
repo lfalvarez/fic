@@ -2,7 +2,7 @@
 layout: page
 title: Somos
 description: FIC
-image: assets/images/Imagen.jpeg
+image: assets/images/0A1C39.png
 nav-menu: true
 ---
 
