@@ -32,7 +32,7 @@ nav-menu: true
 				<p>La banda Alfaraggi no tiene problemas al combinar la música de cámara con el sonsonete popular, porque lo hace con fuerza, y se apronta a   lanzar su primer disco, titulado “Fugitivo», un trabajo que homenajea especialmente al flamenco, pero que matiza con sonidos de la rumba, el pop, el rock y el jazz en los 8 tracks que componen este LP.</p>
 					
 				<ul class="actions">
-					<li><a href="https://open.spotify.com/artist/1IyyevMhzFVtAdAaQg9ysN?si=BXIIyrmSQwKRIN1Sm3IAhQ&nd=1" class="button">Learn more</a></li>
+					<li><a href="https://www.sonidosenlinea.cl/fugitivo-es-el-primer-album-del-grupo-alfaraggi/" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
