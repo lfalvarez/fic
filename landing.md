@@ -1,7 +1,7 @@
 ---
 title: Proyectos
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Trabajamos de forma colaborativa con personas, marcas e instituciones en el desarrollo de proyectos que conecten a las personas.'
 image: assets/images/F3CE74.png
 nav-menu: true
 ---
