@@ -21,7 +21,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a href="https://open.spotify.com/artist/1IyyevMhzFVtAdAaQg9ysN?si=BXIIyrmSQwKRIN1Sm3IAhQ&nd=1" class="image">
 			<img src="{% link assets/images/alfaragi.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
