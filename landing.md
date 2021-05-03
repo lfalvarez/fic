@@ -13,13 +13,11 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h3>ECOMUSIC 
-			"FORTALECIMIENTO DE ECOSISTEMAS CREATIVOS PARA MÚSICOS EMERGENTES"</h3>
+			<h3>ECOMUSIC "FORTALECIMIENTO DE ECOSISTEMAS CREATIVOS PARA MÚSICOS EMERGENTES"</h3>
 		</header>
 		<p>El programa EcoMusic, busca complementar los esfuerzos que están realizando los artistas de todo el mundo para adaptarse a la pandemia, cambiando sus espacios de trabajo por entornos virtuales y adaptando la cadena de valor cultural, creación, producción, distribución y acceso, la que ha provocado un debilitamiento considerable en la condición de los artistas y los profesionales de la cultura.</p>
 	</div>
 </section>
-
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
@@ -29,7 +27,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>ALfaraggi Grupo>
+					<h3>ALfaraggi Grupo</h3>
 				</header>
 				<p>La banda Alfaraggi no tiene problemas al combinar la música de cámara con el sonsonete popular, porque lo hace con fuerza, y se apronta a   lanzar su primer disco, titulado “Fugitivo», un trabajo que homenajea especialmente al flamenco, pero que matiza con sonidos de la rumba, el pop, el rock y el jazz en los 8 tracks que componen este LP.</p>
 					
