@@ -8,7 +8,7 @@ url: "fic.ong"# the base hostname & protocol for your site
 author: "Fundación Industria Creativas"
 street_address: Suecia 620, Providencia.
 city: Santiago Chile
-zip_code: 55555
+zip_code: 7510253
 country: Chile
 phone: (+56) 9 8445 7932
 
@@ -21,12 +21,12 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
+  GitHub: https://github.com/
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
-  Instagram:
+  Google-Plus: https://plus.google.com/u/0/
+  Instagram:  https://www.instagram.com/ficreativa_
   LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/ficcreativa
+  Twitter: https://twitter.com/FICreativa
   Facebook:
   Slack:
 
