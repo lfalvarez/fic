@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Libertad & Creatividad : Defender el arte, defender la diversidad
-description: Lorem etiam nullam
-
+title: Resultados Catastro de estado de situación Agentes, Centros y Organizaciones Culturales
+description: Feugiat amet tempus
+image: assets/images/Catrastro_COVID_19.jpg
 ---
 
 ![test image]({{ site.url | absolute_path}}/assets/images/DAL.jpg)
