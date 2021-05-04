@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DAL
+title: Libertad y Creatividad: Defender el arte, defender la diversidad
 description: Feugiat amet tempus
 ---
 
