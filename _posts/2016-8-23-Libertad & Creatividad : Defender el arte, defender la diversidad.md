@@ -6,18 +6,6 @@ description: Feugiat amet tempus
 
 ![test image]({{ site.url | absolute_path}}/assets/images/DAL.jpg)
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis.
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat.
-Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris.
-Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+La UNESCO pone de relieve los avances y desafíos actuales en los ámbitos de la protección jurídica de la libertad artística, la protección de los derechos sociales y económicos de los artistas y los profesionales de la cultura, y la vigilancia de la libertad artística. Publicada con motivo del Día Mundial de la Libertad de Prensa 2020, esta edición especial está basándose en las recomendaciones formuladas en el capítulo “Promover la libertad de imaginar y crear” del Informe Mundial de la UNESCO de 2018, a fin de evaluar si se han realizado progresos, determinar qué esfuerzos son aún necesarios y qué nuevos desafíos han surgido.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis.
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum.
-Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum.
-Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus.
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus.
-Pellentesque aliquam maximus risus, vel sed vehicula.
-
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis.
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit.
-Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+En un momento en que la pandemia de la COVID-19 está perturbando toda la cadena de valor cultural – creación, producción, distribución y acceso – y debilitando considerablemente la condición de los artistas y los profesionales de la cultura, quienes la mayoría de las veces carecen de acceso a los mecanismos convencionales de protección social, el presente informe ofrece un panorama general de los retos que se plantean y de los esfuerzos que están realizando los gobiernos y la sociedad civil para mantener entornos sostenibles, libres y diversos para la creación, la difusión y el acceso a la vida cultural.
