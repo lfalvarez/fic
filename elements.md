@@ -31,7 +31,7 @@ La invitación es a ¡Crear Juntos!</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Creando Campañas</h3>
-		<p>: Entendiendo como elemento claves de una campaña los procesos de participación ciudadana, acompañamos y desarrollamos la creación, diseño, producción e implementación de campañas comunicacionales incluyendo medios tradicionales y no tradicionales, producción de BTL y/o eventos asociados a la campaña, entre otros, de alcance nacional y regional. </p>
+		<p> Entendiendo como elemento clave de una campaña comunicacional los procesos de participación ciudadana, acompañamos y desarrollamos los procesos de creación, diseño de estrategia, producción e implementación de campañas comunicacionales incluyendo medios tradicionales y no tradicionales, producción de BTL y/o eventos asociados a la campaña, entre otros, de alcance nacional y regional. </p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Fortaleciendo proyectos</h3>
