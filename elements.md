@@ -44,7 +44,7 @@ La invitación es a ¡Crear Juntos!</p>
 	</div>
 	<div class="4u 12u$(medium)">
 		<h3>Agregando Desarrollo Tecnológico y Social</h3>
-		<p> Desarrollamos herramientas tecnológicas que promueven la participación ciudadana, facilitando la transferencia de conocimiento e innovación con los ámbitos de la cultura y la comunicación.</p>
+		<p> Desarrollamos herramientas tecnológicas que promueven la participación ciudadana, facilitando la transferencia de conocimiento e innovación en los ámbitos de la cultura y la comunicación.</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>Creando Mecanismos y Estrategias de Participación Ciudadana</h3>
