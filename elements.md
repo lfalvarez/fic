@@ -40,7 +40,7 @@ La invitación es a ¡Crear Juntos!</p>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
 		<h3>Buscando financiamiento</h3>
-		<p> Trabajamos colaborativamente para impulsar el financiamiento de programas socioculturales desde una aproximación ética. A través de estrategias orientadas a la innovación social de proyectos, con el objetivo de romper la dependencia de los fondos, ampliar fuentes de financiamiento y colaborar en la autonomía financiera.
+		<p> Trabajamos colaborativamente para impulsar el financiamiento de programas socioculturales. Mediante estrategias orientadas a la innovación social de proyectos, buscamos ampliar las fuentes de financiamiento para la autonomía financiera de las organizaciones y proyectos.
 </p>
 	</div>
 	<div class="4u 12u$(medium)">
