@@ -40,8 +40,7 @@ La invitación es a ¡Crear Juntos!</p>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
 		<h3>Buscando Financiamiento</h3>
-		<p> Trabajamos colaborativamente para impulsar el financiamiento de programas socioculturales. Mediante estrategias orientadas a la innovación social de proyectos, buscamos ampliar las fuentes de financiamiento para la autonomía financiera de las organizaciones y proyectos.
-</p>
+		<p> Trabajamos colaborativamente para impulsar el financiamiento de programas socioculturales. Mediante estrategias orientadas a la innovación social de proyectos, buscamos ampliar las fuentes de financiamiento para la autonomía financiera de las organizaciones y proyectos. </p>
 	</div>
 	<div class="4u 12u$(medium)">
 		<h3>Agregando Desarrollo Tecnologico y Social</h3>
@@ -50,7 +49,10 @@ La invitación es a ¡Crear Juntos!</p>
 	<div class="4u$ 12u$(medium)">
 		<h3>Creando Mecanismos y Estrategias de Participación Ciudadana</h3>
 		<p>Cocreamos procesos sociales, educativos y  ciudadanos donde entendemos la comunicación y la cultura como herramienta integral para la participacón. Generamos estrategias de comunicación para interpelar a actores sociales, motivar procesos ciudadanos (participación ciudadana, formación de redes, rendición de cuentas), creaando espacios de expresión y de dialogo que susciten reflexiones y construcciones colectivas.<p>
-		
+		</div>
+	
+	
+	
 <hr class="major" />
 
 <!-- Elements -->
