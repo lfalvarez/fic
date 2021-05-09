@@ -43,7 +43,7 @@ La invitación es a ¡Crear Juntos!</p>
 		<p> Trabajamos colaborativamente para impulsar el financiamiento de programas socioculturales. Mediante estrategias orientadas a la innovación social de proyectos, buscamos ampliar las fuentes de financiamiento para la autonomía financiera de las organizaciones y proyectos. </p>
 	</div>
 	<div class="4u 12u$(medium)">
-		<h3>Agregando Desarrollo Tecnologico y Social</h3>
+		<h3>Agregando Desarrollo Tecnológico y Social</h3>
 		<p> Desarrollamos herramientas tecnológicas que promueven la participación ciudadana, facilitando la transferencia de conocimiento e innovación con los ámbitos de la cultura y la comunicación.</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
