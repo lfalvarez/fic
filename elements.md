@@ -31,11 +31,11 @@ La invitación es a ¡Crear Juntos!</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Creando Campañas</h3>
-		<p> Entendiendo como elemento clave de una campaña comunicacional los procesos de participación ciudadana, acompañamos y desarrollamos los procesos de creación, diseño de estrategia, producción e implementación de campañas comunicacionales incluyendo medios tradicionales y no tradicionales, producción de BTL y/o eventos asociados a la campaña, entre otros, de alcance nacional y regional.</p>
+		<p> Entendiendo como elemento clave de una campaña comunicacional los procesos de participación ciudadana, acompañamos y desarrollamos los procesos de creación, diseño de estrategia, producción e implementación de campañas incluyendo medios tradicionales y no tradicionales, producción de BTL y/o eventos asociados a la campaña, entre otros, de alcance nacional y regional.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Fortaleciendo proyectos</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+		<p> La Incubadora Creativa de proyectos busca fortalcer los ecosistemas creativos, acelerando los procesos de retroalimentación del diseño del plan de negocios, donde se construye la base del proyecto para hacerlo sostenible para ayudar a a los artistas, creadores y organizaciones a prepararse para cualquier tipo de obstáculo futuro .</p>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
