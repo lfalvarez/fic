@@ -44,8 +44,8 @@ La invitación es a ¡Crear Juntos!</p>
 </p>
 	</div>
 	<div class="4u 12u$(medium)">
-		<h3>Agregando Desarrollo Tecnologico</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Agregando Desarrollo Tecnologico y Social</h3>
+		<p> Desarrollamos herramientas tecnológicas que promueven la participación ciudadana, facilitando la transferencia de conocimiento e innovación con los ámbitos de la cultura y la comunicación.</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>Creando mecanismos de participación ciudadana</h3>
