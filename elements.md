@@ -48,7 +48,7 @@ La invitación es a ¡Crear Juntos!</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>Creando Mecanismos y Estrategias de Participación Ciudadana</h3>
-		<p>Cocreamos procesos sociales, educativos y ciudadanos incorporando la comunicación y la cultura como herramienta integral para la participacón. Generamos estrategias de comunicación para interpelar a actores sociales, motivando procesos ciudadanos a través de la creación de espacios de expresión y de dialogo que susciten reflexiones y construcciones colectivas.</p>
+		<p>Cocreamos procesos sociales, educativos y ciudadanos incorporando la comunicación y la cultura como herramienta integral para la participación. Construimos  estrategias de comunicación para interpelar a actores sociales, motivando procesos ciudadanos a través de la creación de espacios de expresión y de dialogo que susciten reflexiones y construcciones colectivas.</p>
 </div>
 	
 
