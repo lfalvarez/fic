@@ -35,7 +35,7 @@ La invitación es a ¡Crear Juntos!</p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Fortaleciendo proyectos</h3>
-		<p> Incubamos proyectos para fortalecer el diseño del plan de sotenibilidad de artistas, creadores y organizaciones. Incrementando sus ecosistemas creativos, acompañamos y orientamos proyectos en sus fases de diseño, prototipo o desarrollo.</p>
+		<p> Con el objetivo de incrementar sus ecosistemas creativos, incubamos proyectos para fortalecer el diseño del plan de sostenibilidad de artistas, creadores y organizaciones, acompañanado y  orientando proyectos en sus fases de diseño, prototipo o desarrollo.</p>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
