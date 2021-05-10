@@ -35,7 +35,7 @@ La invitación es a ¡Crear Juntos!</p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Fortaleciendo proyectos</h3>
-		<p> La Incubadora Creativa de proyectos busca fortalcer los ecosistemas creativos, acelerando los procesos de retroalimentación del diseño del plan de negocios, donde se construye la base del proyecto para hacerlo sostenible para ayudar a a los artistas, creadores y organizaciones a prepararse para cualquier tipo de obstáculo futuro .</p>
+		<p> Incubamos proyectos para fortalecer el diseño del plan de sotenibilidad de artistas, creadores y organizaciones. Incrementando sus ecosistemas creativos, acompañamos y orientamos proyectos en sus fases de diseño, prototipo o desarrollo.</p>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
@@ -56,7 +56,6 @@ La invitación es a ¡Crear Juntos!</p>
 
 <!-- Image -->
 <h3>Image</h3>
-
 <h4>Colaboramos</h4>
 <span class="image fit"><img src="{% link assets/images/pic03.jpg %}" alt="" /></span>
 <div class="box alt">
