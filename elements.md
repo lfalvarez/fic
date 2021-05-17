@@ -65,7 +65,7 @@ La invitación es a ¡Crear Juntos!</p>
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/bandera6.jpg %}" alt="" /></span></div>
 		<div class="4u$"><span class="image fit"><img src="{% link assets/images/yomarcho.jpg %}" alt="" /></span></div>
 		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/hermanos.jpg %}" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
 		<div class="4u$"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
 		<!-- Break -->
