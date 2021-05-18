@@ -58,7 +58,7 @@ La invitación es a ¡Crear Juntos!</p>
 <h3>Colaboramos</h3>
 
 <h4></h4>
-<span class="image fit"><img src="{% link assets/images/pic03.jpg %}" alt="" /></span>
+<span class="image fit"><img src="{% link assets/images/Concert.jpg  %}" alt="" /></span>
 <div class="box alt">
 	<div class="row 50% uniform">
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/NEP-253.jpg %}" alt="" /></span></div>
