@@ -70,7 +70,7 @@ La invitación es a ¡Crear Juntos!</p>
 		<div class="4u$"><span class="image fit"><img src="{% link assets/images/sebandera.jpg %}" alt="" /></span></div>
 		<!-- Break -->
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/trabas.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/vega.jpg %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/vega2.jpg %}" alt="" /></span></div>
 		<div class="4u$"><span class="image fit"><img src="{% link assets/images/musica.jpg %}" alt="" /></span></div>
 	</div>
 </div>
