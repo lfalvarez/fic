@@ -2,7 +2,7 @@
 layout: post
 title: Manifiesto
 description: ¡A crear juntos!
-image: assets/images/DD9DBD.png
+image: assets/images/rosado.jpg
 nav-menu: true
 ---
 
