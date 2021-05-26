@@ -2,7 +2,7 @@
 layout: post
 title: Conoce la Plataforma Nacional de Economías Creativas
 description: Ipsum dolor sit amet
-image: assets/images/pic05.jpg
+image: assets/images/Eco.jpg
 ---
 
 La iniciativa busca ser un nuevo espacio de conexión, difusión e intercambio de conocimientos entre los diversos agentes que componen el entorno de las economías creativas en Chile.
