@@ -1,22 +1,12 @@
 ---
 layout: post
-title: Consequat
+title: Conoce la Plataforma Nacional de Economías Creativas
 description: Ipsum dolor sit amet
 image: assets/images/pic05.jpg
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. 
-Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. 
-Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+La iniciativa busca ser un nuevo espacio de conexión, difusión e intercambio de conocimientos entre los diversos agentes que componen el entorno de las economías creativas en Chile.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. 
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. 
-Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. 
-Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. 
-Pellentesque aliquam maximus risus, vel sed vehicula.
+Artes de la visualidad, diseño, artesanía, música, artes escénicas, literatura, audiovisual y arquitectura. Todas estas disciplinas, oficios, e industrias podrán reunirse, compartir recursos e interactuar en Plataforma EC, la nueva Plataforma digital de Economías Creativas desarrollada por el Ministerio de las Culturas, las Artes y el Patrimonio a través de su Secretaría de Economías Creativas y apoyada por el Banco Interamericano de Desarrollo (BID).
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. 
-Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+La Plataforma EC está dirigida a profesionales de las industrias creativas como artistas, gestores, productores, emprendedores creativos, agentes de intermediación, y también para quienes facilitan la producción, difusión, distribución y circulación nacional e internacional de bienes y servicios culturales. El sitio además permite que los profesionales del sector creativo accedan a convocatorias, instancias de formación, eventos, estudios, entre otros. Junto con lo anterior, cada usuario podrá crear su propio perfil para tener una experiencia personalizada según sus áreas de interés, alcance geográfico y necesidades específicas de cada proyecto, usuario o institución para intercambiar experiencias con otros usuarios..
