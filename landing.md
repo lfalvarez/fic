@@ -21,18 +21,18 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="https://open.spotify.com/artist/1IyyevMhzFVtAdAaQg9ysN?si=BXIIyrmSQwKRIN1Sm3IAhQ&nd=1" class="image">
-			<img src="{% link assets/images/alfaragi.jpg %}" alt="" data-position="center center" />
+		<a href="https://open.spotify.com/artist/51Qq4SYf1OHejhU2VvOUxz?si=qs9qTYKIToC1LxpaqQ4S1w" class="image">
+			<img src="{% link assets/images/restucci.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Alfaraggi Grupo</h3>
+					<h3>Esperanza Restucci</h3>
 				</header>
 				<p>Esperanza Restucci, es considerada una de las voces más destacadas de su generación siendo destacada con excelentes críticas de la prensa especializada. Soprano y directora artística en el ensamble de música barroca HELIOS junto a destacados intérpretes como: Camilo Brandi (Chembalo), Raúl Orellana (Violín) y Luciano Taulis (Viola da gamba). Así como también en su proyecto LATINO KLASSIK: Homenaje a la música clásica de compositores latinoamericanos junto al pianista brasilero André Marques y el pianista cubano Leonardo Reina.</p>
 					
 				<ul class="actions">
-					<li><a href="https://www.youtube.com/watch?v=JXW0HF7tg4U" class="button">Learn more</a></li>
+					<li><a href="https://youtu.be/jlCQ9T5rOVI" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -44,11 +44,11 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Alfaraggi grupo</h3>
 				</header>
 				<p> Alfaraggi grupo es un proyecto que fusiona el flamenco con el jazz y la música latinoamericana. Si bien tiene sus orígenes en el flamenco, toma el contexto cultural actual como su máxima influencia para desarrollar un lenguaje que, si bien tiene mucho de flamenco, está en constante mutación y búsqueda hacia un color regional, americano y multicultural.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://www.youtube.com/watch?v=JXW0HF7tg4U" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
