@@ -77,7 +77,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Fondo de la Musica</h2>
 		</header>
-		<p>Actualmente estamos colaborando en la presentación de proyectos a músicos independientes en la línea de difusión online de la música chilena 2021 para la convocatoria del Ministerio de las Culturas, las Artes y el Patrimonio, con el  objetivo de  contribuir a la circulación y difusión online de música nacional, junto a la generación de contenidos relativos al ámbito musical.</p>
+		<p>Actualmente estamos colaborando en la presentación de proyectos a músicos independientes en la "Línea de difusión online de la música chilena 2021" para la convocatoria del Ministerio de las Culturas, las Artes y el Patrimonio, con el  objetivo de  contribuir a la circulación y difusión online de música nacional, junto a la generación de contenidos relativos al ámbito musical.</p>
 		<ul class="actions">
 			<li><a href="https://www.fondosdecultura.cl/fondos/fondo-musica/lineas-de-concurso/linea-para-la-difusion-online-de-la-musica-chilena-2021/" class="button next">Get Started</a></li>
 		</ul>
