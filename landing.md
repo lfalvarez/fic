@@ -22,7 +22,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="https://open.spotify.com/artist/51Qq4SYf1OHejhU2VvOUxz?si=qs9qTYKIToC1LxpaqQ4S1w" class="image">
-			<img src="{% link assets/images/restucci.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/Esperanza.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
