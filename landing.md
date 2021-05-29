@@ -46,7 +46,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Alfaraggi grupo</h3>
 				</header>
-				<p> Alfaraggi grupo es un proyecto que fusiona el flamenco con el jazz y la música latinoamericana. Si bien tiene sus orígenes en el flamenco, toma el contexto cultural actual como su máxima influencia para desarrollar un lenguaje que, si bien tiene mucho de flamenco, está en constante mutación y búsqueda hacia un color regional, americano y multicultural.</p>
+				<p> Alfaraggi grupo es un proyecto que fusiona el flamenco con el jazz y la música latinoamericana. Si bien tiene sus orígenes en el flamenco, toma el contexto cultural actual como su máxima influencia para desarrollar un lenguaje que está en constante mutación y búsqueda hacia un color regional, americano y multicultural. En su primer album “Fugitivo”,coros masculinos y femeninos adornan los pasajes instrumentales que junto a la guitarra flamenca hacen un giro hacia la canción pop, proponiendo un viaje melódico diverso. </p>
 				<ul class="actions">
 					<li><a href="https://www.youtube.com/watch?v=JXW0HF7tg4U" class="button">Learn more</a></li>
 				</ul>
