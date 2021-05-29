@@ -39,7 +39,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="https://open.spotify.com/artist/1IyyevMhzFVtAdAaQg9ysN?si=BXIIyrmSQwKRIN1Sm3IAhQ&nd=1" class="image">
-			<img src="{% link assets/images/alfaragi.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/anali.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
