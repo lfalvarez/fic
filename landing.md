@@ -29,7 +29,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Alfaraggi Grupo</h3>
 				</header>
-				<p>La banda Alfaraggi no tiene problemas al combinar la música de cámara con el sonsonete popular, porque lo hace con fuerza, y se apronta a   lanzar su primer disco, titulado “Fugitivo», un trabajo que homenajea especialmente al flamenco, pero que matiza con sonidos de la rumba, el pop, el rock y el jazz en los 8 tracks que componen este LP.</p>
+				<p>Esperanza Restucci, es considerada una de las voces más destacadas de su generación siendo destacada con excelentes críticas de la prensa especializada. Soprano y directora artística en el ensamble de música barroca HELIOS junto a destacados intérpretes como: Camilo Brandi (Chembalo), Raúl Orellana (Violín) y Luciano Taulis (Viola da gamba). Así como también en su proyecto LATINO KLASSIK: Homenaje a la música clásica de compositores latinoamericanos junto al pianista brasilero André Marques y el pianista cubano Leonardo Reina.</p>
 					
 				<ul class="actions">
 					<li><a href="https://www.youtube.com/watch?v=JXW0HF7tg4U" class="button">Learn more</a></li>
@@ -39,14 +39,14 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="https://open.spotify.com/artist/1IyyevMhzFVtAdAaQg9ysN?si=BXIIyrmSQwKRIN1Sm3IAhQ&nd=1" class="image">
-			<img src="{% link assets/images/Analifoto.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/alfaragi.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Rhoncus magna</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p> Alfaraggi grupo es un proyecto que fusiona el flamenco con el jazz y la música latinoamericana. Si bien tiene sus orígenes en el flamenco, toma el contexto cultural actual como su máxima influencia para desarrollar un lenguaje que, si bien tiene mucho de flamenco, está en constante mutación y búsqueda hacia un color regional, americano y multicultural.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -55,16 +55,16 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/Analí.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Sed nunc ligula</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p> Analí Muñoz Dahm es Cantante, actriz y diseñadora, sus incicios en la música popular parte desde mediados de la década de 2000, siempre como corista en conciertos de bandas como Mamma Soul y Fother Muckers y de solistas como Elizabeth Morris y Francisca Meza. En 2012 comenzó a trabajar con el baterista de jazz Carlos Cortés en la producción de un repertorio personal que combinaba la raíz latinoamericana con distintas vertientes del pop. Dos años más tarde se tradujo en su primer disco, cuyo single más difundido fue "La aldea".</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://open.spotify.com/artist/7E76XDKVir6lKtbP714F68?si=PIHwbJY3TLak57TCksklKg" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
