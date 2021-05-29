@@ -60,7 +60,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>Analí</h3>
 				</header>
 				<p> Analí Muñoz Dahm es Cantante, actriz y diseñadora, sus incicios en la música popular parte desde mediados de la década de 2000, siempre como corista en conciertos de bandas como Mamma Soul y Fother Muckers y de solistas como Elizabeth Morris y Francisca Meza. En 2012 comenzó a trabajar con el baterista de jazz Carlos Cortés en la producción de un repertorio personal que combinaba la raíz latinoamericana con distintas vertientes del pop. Dos años más tarde se tradujo en su primer disco, cuyo single más difundido fue "La aldea".</p>
 				<ul class="actions">
