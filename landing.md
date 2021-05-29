@@ -75,11 +75,11 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>Fondo de la Musica</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p>Actualmente estamos colaborando en la presentación de proyectos a músicos independientes en la línea de difusión online de la música chilena 2021 comvocados por el Ministerio de las Culturas, las Artes y el Patrimonio, con el  objetivo de  contribuir a la circulación y difusión online de música nacional, junto a la generación de contenidos relativos al ámbito musical.</p>
 		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
+			<li><a href="https://www.fondosdecultura.cl/fondos/fondo-musica/lineas-de-concurso/linea-para-la-difusion-online-de-la-musica-chilena-2021/" class="button next">Get Started</a></li>
 		</ul>
 	</div>
 </section>
