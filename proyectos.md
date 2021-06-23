@@ -48,7 +48,7 @@ nav-menu: true
 				</header>
 				<p> Alfaraggi grupo es un proyecto que fusiona el flamenco con el jazz y la música latinoamericana. Si bien tiene sus orígenes en el flamenco, toma el contexto cultural actual como su máxima influencia para desarrollar un lenguaje que está en constante mutación y búsqueda hacia un color regional, americano y multicultural. En su primer album “Fugitivo”,coros masculinos y femeninos adornan los pasajes instrumentales que junto a la guitarra flamenca hacen un giro hacia la canción pop, proponiendo un viaje melódico diverso. </p>
 				<ul class="actions">
-					<li><a href="https://www.youtube.com/watch?v=JXW0HF7tg4U" class="button">Learn more</a></li>
+					<li><a href="https://www.youtube.com/watch?v=JXW0HF7tg4U" class="button">+ info </a></li>
 				</ul>
 			</div>
 		</div>
@@ -64,7 +64,7 @@ nav-menu: true
 				</header>
 				<p> Analí Muñoz Dahm es Cantante, actriz y diseñadora, sus inicios en la música popular parte desde mediados de la década de 2000, siempre como corista en conciertos de bandas como Mamma Soul y Fother Muckers y de solistas como Elizabeth Morris y Francisca Meza. En 2012 comenzó a trabajar con el baterista de jazz Carlos Cortés en la producción de un repertorio personal que combinaba la raíz latinoamericana con distintas vertientes del pop. Dos años más tarde se tradujo en su primer disco, cuyo single más difundido fue "La aldea".</p>
 				<ul class="actions">
-					<li><a href="https://www.youtube.com/watch?v=qj1QCc0cOZs" class="button">Learn more</a></li>
+					<li><a href="https://www.youtube.com/watch?v=qj1QCc0cOZs" class="button">+ info</a></li>
 				</ul>
 			</div>
 		</div>
@@ -79,7 +79,7 @@ nav-menu: true
 		</header>
 		<p>Actualmente estamos colaborando en la presentación de proyectos a músicos independientes en la "Línea de difusión online de la música chilena 2021" para la convocatoria del Ministerio de las Culturas, las Artes y el Patrimonio, con el  objetivo de  contribuir a la circulación y difusión online de música nacional, junto a la generación de contenidos relativos al ámbito musical.</p>
 		<ul class="actions">
-			<li><a href="https://www.fondosdecultura.cl/fondos/fondo-musica/lineas-de-concurso/linea-para-la-difusion-online-de-la-musica-chilena-2021/" class="button next">Get Started</a></li>
+			<li><a href="https://www.fondosdecultura.cl/fondos/fondo-musica/lineas-de-concurso/linea-para-la-difusion-online-de-la-musica-chilena-2021/" class="button next">Ver Proyectos</a></li>
 		</ul>
 	</div>
 </section>
