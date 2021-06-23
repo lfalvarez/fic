@@ -32,7 +32,7 @@ nav-menu: true
 				<p>Esperanza Restucci, es considerada una de las voces más destacadas de su generación siendo destacada con excelentes críticas de la prensa especializada. Soprano y directora artística en el ensamble de música barroca HELIOS junto a destacados intérpretes como: Camilo Brandi (Chembalo), Raúl Orellana (Violín) y Luciano Taulis (Viola da gamba). Así como también en su proyecto LATINO KLASSIK: Homenaje a la música clásica de compositores latinoamericanos junto al pianista brasilero André Marques y el pianista cubano Leonardo Reina.</p>
 					
 				<ul class="actions">
-					<li><a href="https://youtu.be/jlCQ9T5rOVI" class="button">Learn more</a></li>
+					<li><a href="https://youtu.be/jlCQ9T5rOVI" class="button">+ info</a></li>
 				</ul>
 			</div>
 		</div>
